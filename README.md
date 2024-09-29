@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+<b> Career Identity </b>
+- {Career Identity} (https://github.com/michaeltrivett/Career-Identity)
+  
 
 Here are some ideas to get you started:
 

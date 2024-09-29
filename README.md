@@ -4,6 +4,9 @@
 
 <b> Career Identity </b>
 - {Career Identity} (https://github.com/michaeltrivett/Career-Identity)
+
+  <b> Security Audit </b>
+  - {Botium Toys Security Audit} (https://github.com/michaeltrivett/Security-Audit)
   
 
 Here are some ideas to get you started:

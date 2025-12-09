@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeltrivett">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/michael-trivett-26b11656/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeltrivett">Software Developer</a>, <a href="https://www.linkedin.com/in/michael-trivett-26b11656/">Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

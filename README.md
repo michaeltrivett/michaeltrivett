@@ -9,10 +9,10 @@
   - {Botium Toys Security Audit} (https://github.com/michaeltrivett/Security-Audit)
   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Google Professional Cybersecurity Certification
-- 🌱 I’m currently learning Cybersecurity fundamentals
-- 👯 I’m looking to collaborate on Cybersecurity projects
+
+- 🔭 I’ve finished my certification in Software Development
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Software Development projects
 - 📫 How to reach me: michaelbtrivett@gmail.com
 - ⚡ Fun fact: I was a professional poker player for over 10 years 
